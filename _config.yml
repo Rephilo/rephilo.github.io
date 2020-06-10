@@ -437,7 +437,7 @@ gitalk:
   enable: true
   clientID: 79cc23cc64200de80141
   clientSecret: 46f6ecaad124dac8b50a8ffb0bff28adca7ff26b
-  repo: rephilo.github.io.comment
+  repo: rephilo.github.io
   owner: Rephilo
   admin: Rephilo
 
